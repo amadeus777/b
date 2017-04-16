@@ -200,7 +200,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "m3422810@gmail.com",
+            "action": "http://mail.ru",
             "alerts": {
               "success": "Спасибо!"
             },
@@ -212,12 +212,12 @@
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Email*"
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Моб."
               },
               "message": {
